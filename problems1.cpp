@@ -99,3 +99,5 @@ int main()
     cout << "\nMax Element = " << *max_element(arr, arr + n);
     return 0;
 }
+
+// // C++ program to find the maximum element
